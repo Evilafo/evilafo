@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/emmanuel-evilafo-838734165/">
-  <img width="100%" src="https://media.licdn.com/dms/image/D4E16AQFY7paalCtAQw/profile-displaybackgroundimage-shrink_350_1400/0/1675292273577?e=1704326400&v=beta&t=9J3anAw3pGZfxCxEPUXYfYY3WHy8SL2QQETLL_iH0P4">
+  <img width="100%" src="https://media.licdn.com/dms/image/D4E03AQE7qEKGdiaKAg/profile-displayphoto-shrink_200_200/0/1678301324120?e=1713398400&v=beta&t=Pve0YHAhBDwuezmkTbe_W1oa92JXVLF8BlCxFjnomEg">
 </a>
 
 ## **Biographie**
