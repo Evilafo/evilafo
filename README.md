@@ -25,30 +25,6 @@ En tant qu'actuaire, je suis expert en analyse de risques et en modélisation fi
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
