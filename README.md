@@ -1,8 +1,4 @@
 <a href="https://www.linkedin.com/in/emmanuel-evilafo-838734165/">
-  <img width="100px" src="https://media.licdn.com/dms/image/D4E03AQE7qEKGdiaKAg/profile-displayphoto-shrink_200_200/0/1678301324120?e=1713398400&v=beta&t=Pve0YHAhBDwuezmkTbe_W1oa92JXVLF8BlCxFjnomEg">
-</a>
-
-<a href="https://www.linkedin.com/in/emmanuel-evilafo-838734165/">
   <img width="100px" src="https://media.licdn.com/dms/image/D4E03AQE7qEKGdiaKAg/profile-displayphoto-shrink_200_200/0/1678301324120?e=1719446400&v=beta&t=wA1unwPi6-FGA1l-Ytm58cJ6KGmonRsizFpPldQcVYE">
 </a>
 
