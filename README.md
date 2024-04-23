@@ -2,6 +2,10 @@
   <img width="100px" src="https://media.licdn.com/dms/image/D4E03AQE7qEKGdiaKAg/profile-displayphoto-shrink_200_200/0/1678301324120?e=1713398400&v=beta&t=Pve0YHAhBDwuezmkTbe_W1oa92JXVLF8BlCxFjnomEg">
 </a>
 
+<a href="https://www.linkedin.com/in/emmanuel-evilafo-838734165/">
+  <img width="100px" src="https://media.licdn.com/dms/image/D4E03AQE7qEKGdiaKAg/profile-displayphoto-shrink_200_200/0/1678301324120?e=1719446400&v=beta&t=wA1unwPi6-FGA1l-Ytm58cJ6KGmonRsizFpPldQcVYE">
+</a>
+
 ## **Biographie**
 
 En tant qu'actuaire, je suis expert en analyse de risques et en modélisation financière. J'utilise des méthodes statistiques et mathématiques pour évaluer les risques financiers, tels que la probabilité de sinistres ou la rentabilité d'un investissement. En tant que datascientist, j'utilise des techniques d'analyse de données pour extraire des informations à partir de grandes quantités de données. Je suis capable de collecter, nettoyer et analyser des données complexes, et de les utiliser pour fournir des informations précieuses pour les entreprises.
