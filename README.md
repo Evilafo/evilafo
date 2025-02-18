@@ -4,7 +4,7 @@
 
 ## **Biographie**
 
-En tant qu'actuaire, je suis expert en analyse de risques et en modélisation financière. J'utilise des méthodes statistiques et mathématiques pour évaluer les risques financiers, tels que la probabilité de sinistres ou la rentabilité d'un investissement. En tant que datascientist, j'utilise des techniques d'analyse de données pour extraire des informations à partir de grandes quantités de données. Je suis capable de collecter, nettoyer et analyser des données complexes, et de les utiliser pour fournir des informations précieuses pour les entreprises.
+<!-- En tant qu'actuaire, je suis expert en analyse de risques et en modélisation financière. J'utilise des méthodes statistiques et mathématiques pour évaluer les risques financiers, tels que la probabilité de sinistres ou la rentabilité d'un investissement. En tant que datascientist, j'utilise des techniques d'analyse de données pour extraire des informations à partir de grandes quantités de données. Je suis capable de collecter, nettoyer et analyser des données complexes, et de les utiliser pour fournir des informations précieuses pour les entreprises. -->
 
 - Risk manager - Actuary - Fullstack developer - BI developer - Data Scientist
 
