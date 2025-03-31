@@ -11,6 +11,7 @@
 [![Evilafo's GitHub stats](https://github-readme-stats.vercel.app/api?username=evilafo)](https://github.com/evilafo/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evilafo)](https://github.com/evilafo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evilafo)](https://github.com/evilafo/github-readme-stats)
 
 
 
