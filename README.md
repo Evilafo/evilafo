@@ -12,9 +12,14 @@
 
 - Risk manager - Actuary - Fullstack Data Scientist - AI developer
 
+[![committers.top badge](https://user-badge.committers.top/ivory_coast/Evilafo.svg)](https://user-badge.committers.top/ivory_coast/Evilafo)
+
 [![Evilafo's GitHub stats](https://github-readme-stats.vercel.app/api?username=evilafo)](https://github.com/evilafo/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evilafo)](https://github.com/evilafo/github-readme-stats)
+
+
+
 
 
 
