@@ -19,8 +19,8 @@ Actuaire de formation, j'évalue et je modélise les risques financiers (probabi
 En tant que data scientist fullstack, je construis des solutions de bout en bout : collecte et nettoyage des données, modélisation, puis déploiement en applications web et outils d'IA.
 
 <!-- - 🔭 Actuellement : *[ton projet / poste actuel]* -->
-- 🌱 J'apprends : *LLMOps*
-- 📫 Me contacter : [LinkedIn](https://www.linkedin.com/in/emmanuel-evilafo-838734165/)
+<!-- - 🌱 J'apprends : *LLMOps* -->
+- 📫 Me contacter : [LinkedIn](https://www.linkedin.com/in/emmanuel-evilafo-838734165/) | [Site web](https://evilafo.xyz)
 
 ## Stack
 
